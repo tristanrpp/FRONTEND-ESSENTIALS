@@ -4,7 +4,7 @@
 
 ### Introductie
 
-In de module FRONTEND BASIC heb je kennis gemaakt met ingesprongen (indenting) tags:
+In de module FRONTEND BASIC heb je kennis gemaakt met ingesprongen (indented) tags:
 
 ```html
     <body>
