@@ -1,6 +1,6 @@
 # FRONTEND-ESSENTIALS
 
-## taak02 - Wensen
+## taak02 - Top 20 Games
 
 ### Introductie
 
@@ -15,7 +15,7 @@ Met de `<ol>`-tag maak je een orderd list. In het Nederlands betekent dat geOrde
 
 Dit is een lijst met `nummers`. Elke item staat achter een bepaald nummer. Dat is een geOrdende Lijst. En dat maak je dus met de tags: `<ol>` en `</ol>`
 Maar we zijn er nog niet helemaal. Want ieder item in de lijst die staan ook weer tussen tags, en als je hebt opgelet, _nested tags_.
-Elk stukje tekst staat tussen `<li>` en `</li>`-tags
+Elk stukje tekst staat tussen `<li>` en `</li>`-tags. __li__ staat voor __list item__
 Kijk zo:
 
 ```html
