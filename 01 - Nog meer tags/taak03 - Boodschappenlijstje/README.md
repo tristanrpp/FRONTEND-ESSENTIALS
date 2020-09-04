@@ -1,5 +1,7 @@
 # FRONTEND-ESSENTIALS
 
+## NOG MEER TAGS
+
 ## taak03 - Boodschappenlisjtje
 
 ### Introductie

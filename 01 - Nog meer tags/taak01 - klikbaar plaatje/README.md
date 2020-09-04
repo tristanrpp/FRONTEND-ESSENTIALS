@@ -1,5 +1,7 @@
 # FRONTEND-ESSENTIALS
 
+## NOG MEER TAGS
+
 ## taak01 - klikbaar plaatje
 
 ### Introductie

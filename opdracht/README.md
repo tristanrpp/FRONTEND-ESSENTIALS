@@ -2,7 +2,7 @@
 
 ## MODULEOPDRACHT
 
-Je hebt nog meer kennis gemaakt met
+Je hebt nog meer kennis gemaakt met HTML, CSS en 
 
 __Aan deze doelen heb je gewerkt:__
 

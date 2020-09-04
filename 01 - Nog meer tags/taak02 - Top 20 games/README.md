@@ -1,5 +1,7 @@
 # FRONTEND-ESSENTIALS
 
+## NOG MEER TAGS
+
 ## taak02 - Top 20 Games
 
 ### Introductie
