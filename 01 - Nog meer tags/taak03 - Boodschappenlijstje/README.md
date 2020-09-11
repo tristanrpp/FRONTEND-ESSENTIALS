@@ -6,7 +6,7 @@
 
 ### Introductie
 
-Naast ordered list zijn er ook __unordered lists__. Om zo'n lijstje te maken gebruik je `<ul>` en `</ul>`-tags. Die maak je met Dat ziet er zo uit:
+Naast ordered list zijn er ook __unordered lists__. Om zo'n lijstje te maken gebruik je `<ul>` en `</ul>`-tags. Met __Unorderd list__ maak je puntjes in een lijst: 
 
 - Hond
 - Kat

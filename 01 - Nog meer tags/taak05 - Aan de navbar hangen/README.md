@@ -8,8 +8,6 @@
 
 Om te kunnen navigeren op een website heeft een andere developer voor jou een navbar ontwikkeld. Dit is een combinatie van een aantal factoren. Ten eerste een unorderd `<ul>` list met `<li>` tags. Maar ook meerdere anchor `<a>` tags. We gaan er nu ook eentje maken maar dan zonder styling. Maar omdat browser en zoekmachines graag willen weten met welke onderdelen ze te maken hebben gebruiken we nog een specifieke tag: `<nav>` en `</nav>`. Met deze twee tags geef je aan dat alles dat hier tussen staat de navigatie aangeeft. Dit is/wordt steeds belangrijker. Zo'n `<nav>` tag noemen ze een semantic tag. Er zijn meer semantic tags. Het zijn tags die een specifiek onderdeel aangeven. `<article>` is er ook een. Er zijn er meer. Zoek ze maar eens op.
 
-
-
 ### OPDRACHT
 
 1. Maak een index.html bestand in deze map
