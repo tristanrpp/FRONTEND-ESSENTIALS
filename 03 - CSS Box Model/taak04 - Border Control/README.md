@@ -21,7 +21,7 @@ En dan is dit het resultaat
 
 ![border](images/large-border.png)
 
-Je kunt hier natuurlijk zelf verder mee experimenteren. 
+Je kunt hier natuurlijk zelf verder mee experimenteren.
 
 Je kunt `border-top`, `border-left`, `border-bottom` en `border-right` ook gebruiken.
 

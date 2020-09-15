@@ -38,7 +38,7 @@ Met bovenstaande code krijg je het voorbeeld dat in deze tekst bovenaan staat.
 ### OPDRACHT
 
 1. Maak een index.html bestand in deze map
-2. Codeer de standaard tags in deze pagina (weet je ze even niet kijk dan bij FRONTEND-BASIC taak 02)
+2. Codeer de standaard tags in deze pagina (weet je ze even niet kijk dan bij FRONTEND-BASIC => 03-Basis HTML => taak 02)
 3. Maak een ordered list van de [top 20 games van 2019](https://www.forbes.com/sites/erikkain/2020/01/17/the-20-best-selling-video-games-of-2019/).
 4. Maak gebruik van `<ol>` en `<li>` voor de lijst.
 5. Gebruik ten minste 6 items.

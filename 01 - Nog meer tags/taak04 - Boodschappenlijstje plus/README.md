@@ -30,7 +30,7 @@ Met bovenstaande code krijg je het voorbeeld dat in deze tekst bovenaan staat.
 ### OPDRACHT
 
 1. Maak een index.html bestand in deze map
-2. Codeer de standaard tags in deze pagina (weet je ze even niet kijk dan bij FRONTEND-BASIC taak 02)
+2. Codeer de standaard tags in deze pagina (weet je ze even niet kijk dan bij FRONTEND-BASIC => 03-Basis HTML => taak 02)
 3. Neem de code uit dit voorbeeld over en laat het in je browser in.
 4. Codeer nu eens nogmaals hetzelfde boodschappenlijstje als bij __taak03__ maar dan maak je een aparte categorie voor __groente en fruit__
 5. Gebruik alle boodschappen: bananen, sla, melk, pasta, cola en tandpasta, peren

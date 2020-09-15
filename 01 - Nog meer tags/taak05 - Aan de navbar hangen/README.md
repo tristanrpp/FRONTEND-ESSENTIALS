@@ -14,7 +14,7 @@ Om te kunnen navigeren op een website heeft een andere developer voor jou een na
 2. Maak een artikel01.html pagina
 3. Maak een artikel02.html pagina
 4. Maak een artikel03.html pagina
-5. Codeer de standaard tags op elke pagina (weet je ze even niet kijk dan bij FRONTEND-BASIC taak 02)
+5. Codeer de standaard tags op elke pagina (weet je ze even niet kijk dan bij FRONTEND-BASIC => 03-Basis HTML => taak 02)
 6. Maak op elke pagina dezelfde unorderd list met daarin list items, en in die list items zet je `<a>` tags die verwijzen naar de 4 verschillende pagina's
 7. Als het goed is kun je nu linken tussen de verschillende pagina's. Gefeliciteerd je hebt een menu gemaakt met HTML.
 

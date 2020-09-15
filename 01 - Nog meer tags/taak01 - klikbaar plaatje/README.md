@@ -31,7 +31,7 @@ Hierboven is de tekst `Bekijk de video op youtube` klikbaar gemaakt. Alles dat j
 ### OPDRACHT
 
 1. Maak een index.html bestand in deze map
-2. Codeer de standaard tags in deze pagina (weet je ze even niet kijk dan bij FRONTEND-BASIC taak 02)
+2. Codeer de standaard tags in deze pagina (weet je ze even niet kijk dan bij FRONTEND-BASIC => 03-Basis HTML => taak 02)
 3. Maak een link naar `https://www.hondencentrum.com/`
 4. Codeer een zelfgekozen plaatje van een hond op zo'n manier dat het plaatje klikbaar en naar de bij 2 genoemde pagina verwijst
 

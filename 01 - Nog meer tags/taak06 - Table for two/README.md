@@ -37,18 +37,16 @@ Dat ziet er dan zo uit:
 
 ```
 
-Met dit resultaat: 
+Met dit resultaat:
 
 ![resultaat](images/table.png)
 
 Bestudeer het bovenstaande goed.
 
-
 ### OPDRACHT
 
 1. Maak een index.html bestand in deze map
-2. Codeer de standaard tags op elke pagina (weet je ze even niet kijk dan bij FRONTEND-BASIC taak 02)
+2. Codeer de standaard tags op elke pagina (weet je ze even niet kijk dan bij FRONTEND-BASIC => 03-Basis HTML => taak 02)
 3. Maak een tabel met jouw gegevens
 4. Met bovenin dikgedrukt: Voornaam, Leeftijd, Aantal broers/zussen, lievelingseten, idool, sport, en favoriete game
 5. Aan het eind heb je een tabel gemaakt met de juiste gegevens.
-
