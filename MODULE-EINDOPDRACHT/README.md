@@ -12,9 +12,9 @@ Lees de instructies goed door.
 1. Maak vlag 1 t/m 9
 2. 10 = extra
 
-### OPDRACHT 2  - CSSZENDGARDEN
+### OPDRACHT 2  - Wikipedia:Random
 
-Bij deze opdracht gaat je een eigen [CSS ZENGARDEN]([http](http://www.csszengarden.com)) maken. Je maakt dus eigenlijk 1 HTML pagina maar met twee verschillende stijlen.
+Klik op de link: [Wikipedia Random](https://en.wikipedia.org/wiki/Special:Random/)
 
 Gebruik __tenminste__ de volgende technieken:
 

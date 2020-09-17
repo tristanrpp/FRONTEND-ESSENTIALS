@@ -73,6 +73,10 @@ let volledigeZin = "Ik ga eerst naar de " + winkel + "op de " + straatnaam;
   
 Uiteraard wordt er verwacht dat je de voornaam, achternaam en leeftijd in deze zin vervangen voor waardes die je bij 1 hebt gedeclareerd.
 
+#### Extra
+
+> Plakken van strings noemen ze in het Engels __concatenate__
+
 ### Eindresultaat
 
 ![Eindresultaat](images/eindresultaat.png)
