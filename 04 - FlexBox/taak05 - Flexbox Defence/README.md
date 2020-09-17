@@ -2,15 +2,15 @@
 
 ## FlexBox
 
-## taak04 - Flexbox Diner
+## taak04 - Flexbox Defence
 
 ### Introductie
 
-Ok. Dan kun je nu gaan gamen. Flexbox Diner helpt je de concepten nog beter te begrijpen. Probeer alle 32 puzzels!
+Ok. Dan kun je nu gaan gamen. Flexbox Defence helpt je de concepten nog beter te begrijpen. Probeer alle 12 puzzels!
 
 ### Opdracht
 
-1. Maak de 32 puzzels op [Flexbox Diner](https://flukeout.github.io/)
+1. Maak de 12 puzzels op [Flexbox Defence](http://www.flexboxdefense.com/)
 
 ### Bronnen
 

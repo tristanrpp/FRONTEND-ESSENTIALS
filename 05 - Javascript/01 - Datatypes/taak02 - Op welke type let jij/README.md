@@ -61,7 +61,7 @@ let isStudent = true;
 
 #### Undefined
 
-Als een variabele niet bestaat (niet met `let` gedeclareed) maar je roept de variabele wel op dan krijg je __Undefined__
+Als een variabele bestaat (met `let` gedeclareed), maar geen waarde heeft gekregen) en je roept de variabele wel op dan krijg je __Undefined__
 
 ```js
 let naamStudent = "Farhad";
@@ -75,20 +75,21 @@ Dit is dan het resulaat:
 
 ![Farhad](images/farhad.png)
 
-De leeftijd was niet 'gevuld' en is dus niet gedefineerd. 
+De leeftijd was niet 'gevuld' en is dus niet gedefineerd.
 
 #### NULL
 
-NULL is een lege waarde maar niet undefined. Soms kan een variabele dus expres leeg gemaakt zijn. Dit is dus niet een lege string of het getal 0. Dit is NULL
+NULL is een lege waarde maar niet undefined. Soms kan een variabele dus expres leeg gemaakt zijn. Dit is dus __niet__ een lege string of het getal 0. Dit is NULL.
 
 ```js
-let eenLegeVariabele = NULL;
+let eenLegeVariabele = null;
 console.log(eenLegeVariabele); /* NULL */
 ```
 
 ### Opdracht
 
-1. Maak voor de volgende onderwerpen de volgende variabelen die over jezelf gaan.
+1. Maak een index.html met de gebruikelijke tags en daarbij ook een script tag. (je kunt de index.html van taak01 nemen ;)
+2. Maak voor de volgende onderwerpen de volgende variabelen die over jezelf gaan.
    - voornaam
    - achternaam
    - leeftijd
@@ -96,5 +97,5 @@ console.log(eenLegeVariabele); /* NULL */
    - ikMagLegaalAlcoholKopen
    - ikMagBrommerRijden
    - SoftwareOntwikkeling
-2. Geen van de bovenstaande variabele mag _undefined_ zijn als je het zou testen in de console
-3. Gebruik de overige datatypes
+3. Geen van de bovenstaande variabele mag _undefined_ zijn als je het zou testen in de console
+4. Gebruik de genoemde datatypes
