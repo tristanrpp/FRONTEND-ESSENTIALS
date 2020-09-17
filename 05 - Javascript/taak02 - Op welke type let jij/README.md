@@ -2,7 +2,7 @@
 
 ## Javascript
 
-## taak01 - Datatypes
+## taak02 - Datatypes
 
 ### Introductie
 

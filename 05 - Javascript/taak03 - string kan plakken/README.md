@@ -2,7 +2,7 @@
 
 ## Javascript
 
-## taak01 - String kan plakken
+## taak03 - String kan plakken
 
 ### Introductie
 
