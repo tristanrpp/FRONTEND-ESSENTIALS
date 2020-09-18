@@ -43,7 +43,7 @@ Simpele regels, toch. Ok hier komt er nog een:
 
 > Alles aan de rechterkant van het `=`-teken stop je als waarde in de variabele
 
-Stel je hebt de volgende code:
+Stel je hebt de volgende code, een berekening. ( ja! je kunt rekenen met Javascript!! )
 
 ```js
 let kleinGetal = 2;

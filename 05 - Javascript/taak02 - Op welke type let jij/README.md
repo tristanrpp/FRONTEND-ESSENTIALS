@@ -13,11 +13,10 @@ In de code-wereld bestaan allerlei soorten datatypes. Soorten data. Data-typen. 
 - Boolean
 - Undefined
 - Null
-- Symbol
 
 #### STRING
 
-Het datatype __String__ is een stukje tekst. Sterker nog dit kan zelfs een lege stuk tekst zijn. Als de tekst (of lege tekst) tussen aanhalingstekens staat dan is het van het type String. Dus bijvoorbeeld zo:
+Het datatype __String__ is een stukje tekst. Of een lege stuk tekst. Als de tekst (of lege tekst) tussen aanhalingstekens staat dan is het van het type String. Dus bijvoorbeeld zo:
 
 ```js
 let mijnVoornaam = "Bart"
@@ -27,6 +26,7 @@ let school = '';
 ```
 
 Je ziet dat __enkele__ en __dubbele__ aanhalingstekens mag gebruiken.
+_(je kunt ook accent graves gebruiken. Engles: backticks ` )_
 
 #### Number
 
@@ -90,12 +90,12 @@ console.log(eenLegeVariabele); /* NULL */
 
 1. Maak een index.html met de gebruikelijke tags en daarbij ook een script tag. (je kunt de index.html van taak01 nemen ;)
 2. Maak voor de volgende onderwerpen de volgende variabelen die over jezelf gaan.
-   - voornaam
-   - achternaam
-   - leeftijd
-   - ikBenStemGerechtig
-   - ikMagLegaalAlcoholKopen
-   - ikMagBrommerRijden
-   - SoftwareOntwikkeling
+   1. voornaam
+   2. achternaam
+   3. leeftijd
+   4. ikBenStemGerechtig
+   5. ikMagLegaalAlcoholKopen
+   6. ikMagBrommerRijden
+   7. SoftwareOntwikkeling
 3. Geen van de bovenstaande variabele mag _undefined_ zijn als je het zou testen in de console
 4. Gebruik de genoemde datatypes

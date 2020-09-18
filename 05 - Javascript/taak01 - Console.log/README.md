@@ -18,7 +18,7 @@ console.log("Een kleine test");
 
 ### Opdracht
 
-1. Maak gebruik van de `index.html` en de `script.js` om het volgende zin in de console te tonen: "Mijn naam is <vul je eigen naam in> Dit is mijn eerste console bericht"
+1. Maak gebruik van de `index.html` en de `script.js` om het volgende zin in de console te tonen: "Mijn naam is __`<vul je eigen naam in>`__ Dit is mijn eerste console bericht"
 
 ### Resultaat
 
