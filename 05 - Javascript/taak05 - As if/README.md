@@ -30,7 +30,27 @@ Je ziet een if-statement staan. En tussen de haakjes bij de if -statement staat 
 
 Daarnaast zie je ook dat er accolades staan `{` en `}`. Dit geeft een code-blok aan. Een apart deel van de code.
 
-Als de boolean variabele waar (true) is dan land je veilig. Als de boolean variabele NIET waar (false) is dan stort je te pletter.
+![Code block](images/codeblok.png)
+
+Als de boolean variabele waar (true) is dan land je veilig.
+
+```js
+    let parachuteIsOpen = true; /* Hier is de parachute open */
+
+    if(parachuteIsOpen){
+        alert("Ik land veilig op de grond! Yeah!");
+    }
+```
+
+Als de boolean variabele NIET waar (false) is dan stort je te pletter.
+
+```js
+    let parachuteIsOpen = false; /* Hier is de parachute NIET open */
+
+    if(parachuteIsOpen){
+        alert("Ik land veilig op de grond! Yeah!");
+    }
+```
 
 > - Als het WAAR is dan wordt de alert() uitgevoerd.
 > - Als het NIET WAAR is dan wordt de alert() niet uitgevoerd. De code tussen de accolades wordt niet uitgevoerd.
@@ -48,17 +68,19 @@ Je kunt ook het volgende coderen:
     }
 ```
 
-in de if-statement staat een bepaalde voorwaarde (condition).
+In de if-statement staat een bepaalde voorwaarde (condition). Die bepaalt of de code tussen de accolades `{ }` wordt uitgevoerd of niet.
 
 - Als die voorwaarde __true__ is dan krijgen we in de console de zin "De twee getallen zijn gelijk." te zien.
 - Als de voorwaarde __false__ is dan krijgen we niks te zien in de console.
 
 In bovenstaand voorbeeld zijn de getallen __gelijk aan elkaar__ en dus zegen we: de if-statement is `TRUE` en dus wordt de zin getoond!
 
-> - Opmerking: Je ziet twee = tekens staan: `==`
+### Opmerking
+
+> - Je ziet twee = tekens staan: `==`
 > - Dit is geen type-fout.
 > - Dit noemen we een __vergelijkingsoperator__: je vergelijkt twee waardes
-> - 1 = teken gebruikje bij het 'vullen' van een variabele (waarde toekennen)
+> - 1 = teken gebruik je bij het 'vullen' van een variabele (waarde toekennen)
 > - 2 == gebruik je bij een vergelijking: de linkerkant vergelijk je met de rechterkant
 
 ### Opdracht

@@ -42,7 +42,19 @@ Achter een _property_ staat een dubbele punt `:` en daarachter staat de waarde v
 voornaam : "Peter"
 ```
 
-Als je de 
+Als je maar 1 property in je console.log wilt tonen dan doe je dat als volgt:
+
+`object.property`
+
+```js
+console.log(persoon.voornaam);  // op het scherm komt 'Peter` te staan
+```
+
+Je ziet dat je
+
+1. eerst het `object` noteert: _persoon_
+2. dan een punt (`.`)
+3. dan de `property`: _voornaam_
 
 ### Opdracht
 

@@ -6,7 +6,7 @@
 
 ### Introductie
 
-Bij Frontend Basic heb je te maken gehad met variabelen. Oh wacht eens even.. bij de vorige opdracht natuurlijk ook....
+Bij Frontend Basic heb je te maken gehad met variabelen. Oh wacht eens even.. bij deze module ook...We gaan nog een principe van variabelen doornemen.
 
 Een belangrijk principe is het declareren:
 
@@ -28,7 +28,7 @@ mijnLeeftijd = 17;
 console.log(mijnLeeftijd);
 ```
 
-Het getal 16 in dit voorbeeld bestaat niet meer. De variabelen heeft een nieuwe waarde.
+Het getal 16 in dit voorbeeld bestaat niet meer. De variabele heeft een nieuwe waarde: 17.
 
 Andersom dat zou niet kunnen want de variabele is nog niet gedeclareerd:
 
@@ -50,7 +50,7 @@ let kleinGetal = 2;
 let groterGetal = kleinGetal + kleinGetal;
 ```
 
-Wat zou de waarde van `groterGetal` zijn......? Met een beetje logisch nadenken kom je er wel..... ja inderdaag...4. Je telt eerst alles aan de rechterkant op en dan pas stop je het inde variabele.
+Wat zou de waarde van `groterGetal` zijn......? Met een beetje logisch nadenken kom je er wel..... ja inderdaad...4. Je telt eerst alles aan de rechterkant op en dan pas stop je het in de variabele.
 
 Nog eentje:
 
@@ -59,7 +59,7 @@ let grootGetal = 2000;
 grootGetal = grootGetal + grootGetal;
 ```
 
-Er is nu geen nieuwe variabele gemaakt. Wat denk je dat de waarde `grootGetal` is?
+Er is nu geen nieuwe variabele gemaakt. Wat denk je dat de _nieuwe_ waarde `grootGetal` is?
 
 Inderdaad: 4000. Dezelfde regel geldt ook hier. Eerst alles optellen aan de rechterkant van het `=`-teken om daarna alles in dezelfde variabele te stoppen.
 
@@ -72,7 +72,7 @@ grootGetal = laatsteGetal + grootGetal;
 laatsteGetal = grootGetal + 20;
 ```
 
-Het antwoord krijg je niet. bespreek deze vraag eventueel met je klasgenoten.
+Het antwoord krijg je niet. Bespreek deze vraag eventueel met je klasgenoten.
 
 ### Opdracht
 

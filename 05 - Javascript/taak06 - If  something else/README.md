@@ -53,6 +53,8 @@ Ok. Leuk allemaal. Maar stel nou dat je de volgende zin zou moeten omzetten in c
 
 > Als de spoorbomen omlaag zijn dan stop ik met mijn auto, anders rijd ik gewoon door.
 
+![Spoorboom](images/spoorboom.jpg)
+
 ```js
     let spoorBomenOmlaag = true;
 
@@ -64,7 +66,7 @@ Ok. Leuk allemaal. Maar stel nou dat je de volgende zin zou moeten omzetten in c
     }
 ```
 
-Je ziet hier een `if-else statement`. 
+Je ziet hier een `if-else statement`.
 
 > - Als de if-statement gelijk is aan __true__ dan wordt net als bij taak05 de code in het if-code-blok uitgevoerd.
 > - Als de if-statement een __false__ voorwaarde heeft dan wordt het codedeel in de `else` uitgevoerd.
