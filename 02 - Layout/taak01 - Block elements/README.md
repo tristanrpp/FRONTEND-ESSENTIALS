@@ -13,7 +13,9 @@ Alle HTML elementen zijn opgebouwd als __block__ elementen of als __inline__ ele
 ```
 
 ```css
-p { background-color: #8ABB55; }
+p {
+    background-color: #8ABB55;
+}
 ```
 
 ![block](images/block.png)
