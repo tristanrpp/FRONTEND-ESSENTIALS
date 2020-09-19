@@ -68,5 +68,5 @@ En als je Javascript wilt linken dan doe je dat zo:
 
 1. Maak een index.html bestand in deze map
 2. Codeer de standaard tags op elke pagina (weet je ze even niet kijk dan bij FRONTEND-BASIC => 03-Basis HTML => taak 02)
-3. Maak een `<button>`-tag op de pagina. En stijl deze met een extern CSS-bestand
-4. Als je op de knop drukt dan moet er een alert box verschijnen. Zoek op google hoe dit moet. Schrijf de Javascript in een extern JS-bestand.
+3. Schrijf CSS code in `style.css` en maak de achtergrond kleur `#daa420`
+4. Schrijf Javascript code in `script.js`. De code activeert een `alert('De links werkt!')`-box.

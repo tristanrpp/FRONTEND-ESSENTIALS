@@ -2,7 +2,7 @@
 
 ## Javascript
 
-## taak04 - To let or not to let
+## taak07 - To let or not to let
 
 ### Introductie
 

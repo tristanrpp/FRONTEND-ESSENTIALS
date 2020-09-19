@@ -2,7 +2,7 @@
 
 ## Javascript
 
-## taak02 - Datatypes
+## taak03 - Datatype Object
 
 ### Introductie
 
@@ -55,6 +55,12 @@ Je ziet dat je
 1. eerst het `object` noteert: _persoon_
 2. dan een punt (`.`)
 3. dan de `property`: _voornaam_
+
+Stel nou eens dat in het voorbeeld hierboven de leeftijd van Peter veranderd. Dan is het natuurlijk overdreven om het hele Object opnieuw te maken. Je kunt net als bij een _normale_ variabele een `=`-teken gebruiken:
+
+```js
+persoon.leeftijd = 60;
+```
 
 ### Opdracht
 
