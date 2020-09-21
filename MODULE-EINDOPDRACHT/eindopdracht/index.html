@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    
+    <div class="container">
+        <input type="number" name="" id="">
+    </div>
+    <div class="container">
+        <div class="col">
+            <div class="button" id="eten"><span>Geef eten</span></div>
+            <div class="button" id="drinken"><span>Geef Drinken</span></div>
+        </div>
+        <div class="col">
+            <div class="button" id="aaien"><span>Aaien</span></div>
+            <div class="button" id="licht"><span>Licht</span></div>
+        </div>
+        <div class="response"></div>
+    </div>
+    <script>
+        let eten = document.querySelector("eten");
+        let drinken = document.querySelector("drinken");
+        let aaien = document.querySelector("aaien");
+        let lichtKnop = document.querySelector("licht");
+
+        let lichtIsAan = true;
+
+        let animal = {
+            eten: "Ik wil drinken",
+            aaien: "Ik wil liefde",
+            lichtAan: "Ik wil slapen",
+            lichtUit: "Ik ben wakker",
+        };
+
+        eten.addEventListener("onmousedown", "geefEten");
+
+        function geefEten()
+        {
+            
+        }
+
+
+
+        
+        
+    </script>
+</body>
+</html>
