@@ -16,9 +16,9 @@ Zodra een HTML document is ingeladen in de browser dan wordt het een Document Ob
 
 Omdat dit zo is kunnen we dit in Javascript bekijken en veranderen.
 
-De code die hieronder wordt besproken kun je __zelf uit testen__ in `script.js`
-
-> Open dus index.html in je browser.
+> De code tijdens deze uitleg kun je __zelf uit testen__ in `script.js`
+> Open dus `index.html` in je browser.
+> Open `script.js` om aanpassingen te doen in VS Code.
 
 Als je het object wilt bekijken dan kun je dat in de console doen:
 
