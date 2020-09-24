@@ -44,6 +44,8 @@ Op index.html komen de volgende zaken te staan
 - Als de gebruiker (bezoeker) 19 jaar dan wordt de achtergrond kleur van index.html een groen-achtige kleur
 - Als de gebruiker (bezoeker) niks invuld dan wordt de achtergrond kleur van index.html een kleur naar keuze, als die maar anders is dan hierboven.
 
+### Gebruik de volgende technieken
+
 #### HTML-TECHNIEKEN
 
 - [ ] `<!DOCTYPE html>`
@@ -56,6 +58,7 @@ Op index.html komen de volgende zaken te staan
 - [ ] `<tr>`
 - [ ] `<td>`
 - [ ] `<h1>` of `<h2>` of `<h3>` of `<h4>` of `<h5>` of `<h6>`
+- [ ] `<div>`
 
 #### CSS-TECHNIEKEN
 
@@ -66,6 +69,7 @@ Op index.html komen de volgende zaken te staan
 - [ ] `margin`
 - [ ] `padding`
 - [ ] `border`
+- [ ] `position` met eventueel `top`, `right`, `bottom`, `left`
   
 #### JAVASCRIPT-TECHNIEKEN
 
@@ -75,5 +79,6 @@ Op index.html komen de volgende zaken te staan
 - [ ] `if()`
 - [ ] `Object`
 - [ ] `String`
+- [ ] `null`
 - [ ] `Number`
 - [ ] `let`
