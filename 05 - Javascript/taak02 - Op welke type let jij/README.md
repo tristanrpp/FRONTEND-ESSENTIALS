@@ -83,7 +83,7 @@ NULL is een lege waarde maar niet undefined. Soms kan een variabele dus expres l
 
 ```js
 let eenLegeVariabele = null;
-console.log(eenLegeVariabele); /* NULL */
+console.log(eenLegeVariabele); /* null */
 ```
 
 ### Opdracht
