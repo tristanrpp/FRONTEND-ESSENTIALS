@@ -1,0 +1,9 @@
+let mijnVoornaam = "Tristan"
+        let mijnAchternaam = 'Panggabean'
+        let beroep = "Bezorger";
+        let school = 'Roc Amstelland';
+        let leeftijd = 18;
+        let ikBenStemRechtig = true;
+        let ikMagLegaalAlcoholKopen = true;
+        let ikMagBrommerRijden = false;
+        let opleiding = "SoftwareOntwikkeling";
