@@ -14,13 +14,19 @@
 
 #bovenkant{
     width: 900px;
-    height: 300px;
-    background-color: white;
+    height: 50%;
+    background-color:yellow;
+}
+
+#midden{
+    width: 900px;
+    height: 25%;
+    background-color:blue;
 }
 
 #onderkant{
     width: 900px;
-    height: 300px;
-    background-color: red;
+    height: 25%;
+    background-color:red;
 }
 

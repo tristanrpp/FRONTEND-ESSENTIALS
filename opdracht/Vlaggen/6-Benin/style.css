@@ -1,0 +1,49 @@
+/* Hier hoef je niks mee te doen */
+
+
+#container{
+    width: 900px;
+    height: 600px;
+    background-color: blanchedalmond;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: row;
+
+}
+
+/* Hieronder kun je gaan editen */
+
+#links{
+    width: 450px;
+    height: 600px;
+    background-color:green
+    
+}
+
+
+    
+
+
+#rechts{
+    display:flex;
+    flex-direction: column;
+    width: 450px;
+    height: 600px;
+    background-color: yellow;
+    
+    
+}
+
+
+#rechtsboven{
+    width: 450px;
+    height: 299px;
+    color: yellow
+}
+
+
+#rechtsonder{
+    width: 450px; ;
+    height: 299px;
+    background-color: red;
+}
